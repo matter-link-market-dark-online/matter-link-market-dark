@@ -22,4 +22,6 @@ Never forget the critical role of anonymity when operating within these virtual 
 
 <a href="http://ytbzy2nljonwcp76o4yyccmrv64ysbjejnwtnpumqcrlkoa7pmpomeqd.onion"><img src="/media/area.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://ytbzy2nljonwcp76o4yyccmrv64ysbjejnwtnpumqcrlkoa7pmpomeqd.onion"><img src="/media/heap.webp" alt="image" style="max-width: 100%;"><a>
 
-Update:  26 June 2025 Fixed broken links in troubleshooting guide
+
+
+Update:  04.07.2025
