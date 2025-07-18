@@ -28,4 +28,6 @@ Never forget the critical role of anonymity when operating within these virtual 
 
 
 
-Update:  14.07.2025 04:08 url is now operational
+
+
+Update: References corrected
