@@ -34,4 +34,6 @@ Never forget the critical role of anonymity when operating within these virtual 
 
 
 
-Update:  24 July 2025 Sitemap URLs
+
+
+Update:  04 August Fixed broken url
